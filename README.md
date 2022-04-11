@@ -1,2 +1,2 @@
-# Criando-o-2-Site
-Utilizando HTML e CSS
+# Criando site de cárdapio com sabores e suplementos de açai
+HTML e CSS
